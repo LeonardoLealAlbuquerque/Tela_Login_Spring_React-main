@@ -9,4 +9,5 @@ export const Container = styled.div`
   gap: 20px;
 `;
 
-export const Title = styled.h2``;
+export const Title = styled.h2`
+  color: #fff;`;
